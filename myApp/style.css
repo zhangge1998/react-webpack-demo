@@ -1,0 +1,18 @@
+#root{
+    width: 200px;
+    margin: 50px auto;
+    text-align: center;
+}
+#root span{
+    display: block;
+    font-size: 30px;
+}
+
+#root button{
+    width: 40px;
+    height: 30px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
